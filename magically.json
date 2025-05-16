@@ -1,0 +1,92 @@
+{
+  "version": "1.0.0",
+  "projectId": "c9e8fee7-a705-408e-9fe9-976d15618da4",
+  "projectName": "Child Development Check",
+  "fileManifest": [
+    {
+      "path": "App.tsx",
+      "language": "typescript",
+      "hash": "2634af0722850cb43c0a500b0a58009d176a85e92512ee21fe064a5b2dfa0ecb"
+    },
+    {
+      "path": "navigation/index.tsx",
+      "language": "typescript",
+      "hash": "7daccbb631dd3e018226c2529cb7ee1df296e1a912be48295406c74ede61a963"
+    },
+    {
+      "path": "screens/HomeScreen.tsx",
+      "language": "typescript",
+      "hash": "7d36cbae10443bd6c2761dc127f80edc0d34011878e6a9098be137fad0d46ac8"
+    },
+    {
+      "path": "constants/colors.ts",
+      "language": "typescript",
+      "hash": "33f902c9aaca70569678248ca27efdb2a22872e7aa296cb2532df803b54313ea"
+    },
+    {
+      "path": "mocks/questions.ts",
+      "language": "typescript",
+      "hash": "255984feffeafaafd4f2cb52dcbd63270d95d27964a2fe97ca6b5db30bd34a47"
+    },
+    {
+      "path": "store/authStore.ts",
+      "language": "typescript",
+      "hash": "004a2fe6898feb748cb827b481be0156ec32199a7a4b22b45aea8a16451557a6"
+    },
+    {
+      "path": "store/assessmentStore.ts",
+      "language": "typescript",
+      "hash": "88263a86469224fb79dead3123a5330cc110fa95873d4d130aa57472fbb63260"
+    },
+    {
+      "path": "screens/LoginScreen.tsx",
+      "language": "typescript",
+      "hash": "6128b959979735cf6bd4d4186eb844ffba6015ba7abad536dc2c385e2012cb77"
+    },
+    {
+      "path": "screens/ThemeIntroScreen.tsx",
+      "language": "typescript",
+      "hash": "61cec7438f74509d3210ca31db2bc2163b23bbab455e68297e6376dd39d41ef3"
+    },
+    {
+      "path": "screens/QuestionScreen.tsx",
+      "language": "typescript",
+      "hash": "77af1c2b866f240114255342829f4ef962815ce138c80c90f771150382ef8fa9"
+    },
+    {
+      "path": "screens/ResultsScreen.tsx",
+      "language": "typescript",
+      "hash": "c61d932ebc6cc696893a844bb2312a4e805c1edfa59dfea30302ce16192d03e6"
+    },
+    {
+      "path": "screens/ThemeInfoScreen.tsx",
+      "language": "typescript",
+      "hash": "5421340400bbec9908ed9caa8bc1d9b5d1dd296046df14f8e694e695348a9516"
+    },
+    {
+      "path": "supabase/client.ts",
+      "language": "typescript",
+      "hash": "e9030892b959dff7ae5e6087a4ee7b7c5f4711961f7cad1c0fd3c3994622fb07"
+    },
+    {
+      "path": "types/assessment.ts",
+      "language": "typescript",
+      "hash": "2672fe529ebaab8bfc1d804ae474d473e9cbd159c4c48a640eb27e24b9a98f40"
+    },
+    {
+      "path": "services/reportService.ts",
+      "language": "typescript",
+      "hash": "59cdf2eff1a2c604d2f2ac0718eb5633beb34a03fd2ccf728fa0cafa4cd21af7"
+    },
+    {
+      "path": "package.json",
+      "language": "json",
+      "hash": "b63dfea4d867126e3ceae24a5972596e503df99bf736c2569e863dd36f0fe98b"
+    },
+    {
+      "path": "supabase/functions/generate-pdf/index.ts",
+      "language": "typescript",
+      "hash": "c7d947c530806068e233833300dd69d6a7954d908913c5bb02a8288a77c93a2f"
+    }
+  ]
+}
